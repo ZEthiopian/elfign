@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "elfign",
-    "slug": "snack-44930686-8490-4829-99c4-00f854dac3fc",
+    "slug": "elfign",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,14 +20,16 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.elfign.elfign",
+      "googleServicesFile": "./android/app/google-services.json"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "96deb93c-3286-42ca-892f-a9fbdd2b646f"
+        "projectId": "a8f6ea8c-619d-47ab-bef9-a4c298f588bc"
       }
     }
   }
