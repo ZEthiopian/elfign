@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "46544541485",
+    "project_id": "elfign-5205e",
+    "storage_bucket": "elfign-5205e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46544541485:android:85033c4459e86a75fde5a4",
+        "android_client_info": {
+          "package_name": "com.elfign.elfign"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcmp354R0b1uC_tlJDV0yaXqa9QAW6_ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
