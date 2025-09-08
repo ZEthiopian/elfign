@@ -21,16 +21,20 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.elfign.elfign",
-      "googleServicesFile": "./android/app/google-services.json"
+      "package": "com.elfign.elfign"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "a8f6ea8c-619d-47ab-bef9-a4c298f588bc"
+        "projectId": "10ae224a-08bc-45ee-a2b9-f7ebb006adfb"
       }
-    }
+    },
+    "owner": "zethiopian",
+    "plugins": [
+      "expo-font",
+      "expo-secure-store"
+    ]
   }
 }

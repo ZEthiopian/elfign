@@ -94,7 +94,7 @@ export default function LoginScreen({ navigation }) {
           <Text style={styles.note}>
             Default Credentials:{"\n"}
             Phone: 0911505756{"\n"}
-            Password: 251617
+            Password: 12
           </Text>
         </View>
       </ScrollView>
